@@ -111,7 +111,7 @@ export default {
   align-items: center;
   box-shadow: -3px 4px 33px 18px rgba(0, 0, 0, 0.1);
   border-radius: 32px;
-  background-color: rgb(244, 242, 242);
+  background-color: #FEF17F;
   border: 2px solid rgb(176, 173, 173);
 }
 
